@@ -1,0 +1,10 @@
+<test thread-count=“1" name="smoke">
+<groups>
+<run>
+<include name="smoke"/>
+</run>
+</groups>
+<classes>
+<class name=" package name. class name (Test)"/>
+</classes>
+</test>
